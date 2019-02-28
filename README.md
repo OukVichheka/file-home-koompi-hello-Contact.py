@@ -1,2 +1,2 @@
-# file-home-koompi-hello-Contact.py
+# file-home-koompi-hello-python
 python
